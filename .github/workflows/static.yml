@@ -17,7 +17,7 @@ jobs:
   # Single deploy job since we're just deploying
   deploy:
     environment:
-      name: production
+      name: GitHub Pages
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
