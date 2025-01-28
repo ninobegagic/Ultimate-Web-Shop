@@ -1,7 +1,9 @@
 {
-  "web_shop": {
-    "design": {},
-    "development": {},
-    "affiliate_link_integration": {}
-  }
-}
+   "web_shop": {
+    "name": "Web Shop",
+    "design": "modern",
+    "development": "in-progress",
+    "affiliate_link_integration": true
+  
+      }      
+    }
