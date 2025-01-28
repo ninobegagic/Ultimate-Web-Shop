@@ -1,0 +1,1 @@
+Phase: Add affiliate tracking links and implement tracking. Ensure proper tracking for every affiliate link added and test for correct tracking on all pages.

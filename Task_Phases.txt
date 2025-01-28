@@ -1,0 +1,4 @@
+Task Phases:
+1. Design Phase: Create the website interface inspired by Amazon and eBay.
+2. Development Phase: Build the web shop using open-source platforms with prompt coding technology.
+3. Affiliate Link Integration Phase: Scan European web shops for affiliate links based on product rating, quality, and price criteria.

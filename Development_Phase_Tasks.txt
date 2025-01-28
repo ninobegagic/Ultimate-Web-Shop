@@ -1,0 +1,7 @@
+Tasks for the Development Phase:
+1. Set up the database and data models for the web shop.
+2. Develop the front-end user interface using HTML, CSS, and JavaScript.
+3. Implement back-end functionality using open-source platforms like WordPress or Magento.
+4. Integrate payment gateways for secure transactions.
+5. Test the website for functionality and responsiveness.
+6. Optimize the website for search engines (SEO).

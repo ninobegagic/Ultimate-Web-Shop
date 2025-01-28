@@ -1,0 +1,5 @@
+1. Create wireframes for different pages (home, product listing, product details, cart, checkout).
+2. Define color scheme and typography for the website.
+3. Design logo and branding elements.
+4. Plan navigation and user interface elements.
+5. Consider mobile responsiveness and user experience.
